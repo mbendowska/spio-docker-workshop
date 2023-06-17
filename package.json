@@ -1,0 +1,18 @@
+{
+  "name": "docker-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michał Maćkowiak <michal.mackowiak@cs.put.poznan.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-register-components": "next",
+    "@vuepress/plugin-search": "next",
+    "markdown-it-fontawesome": "^0.3.0",
+    "vuepress": "next"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {}
+}

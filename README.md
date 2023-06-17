@@ -1,2 +1,10 @@
-# spio-docker-workshop
-Materiały na warsztat z Dockera (SPIO)
+---
+home: true
+navbar: false
+actions:
+  - text: Start
+    link: /intro.md
+    type: primary
+---
+
+![Docker Workshop](/docker-landing.jpg)
