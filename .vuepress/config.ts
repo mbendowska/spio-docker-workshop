@@ -8,7 +8,7 @@ import { navbar, sidebar } from './navigation'
 
 export default {
   lang: 'pl-PL',
-  title: 'Docker - warsztaty',
+  title: 'Docker - warsztaty 233333',
   description: 'Studium Podyplomowe Inżynierii Oprogramowania',
 
   theme: defaultTheme({
